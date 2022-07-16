@@ -1,4 +1,4 @@
-package com.company;
+package com.company.array;
 
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
