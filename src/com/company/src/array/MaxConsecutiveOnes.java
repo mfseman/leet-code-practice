@@ -1,4 +1,4 @@
-package com.company.array;
+package com.company.src.array;
 
 public class MaxConsecutiveOnes {
 

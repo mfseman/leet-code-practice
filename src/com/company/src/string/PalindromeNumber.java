@@ -1,4 +1,4 @@
-package com.company.string;
+package com.company.src.string;
 
 public class PalindromeNumber {
     public boolean isPalindrome(int x) {

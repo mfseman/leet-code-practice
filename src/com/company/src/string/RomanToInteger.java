@@ -1,4 +1,4 @@
-package com.company.string;
+package com.company.src.string;
 
 public class RomanToInteger {
     public int romanToInt(String s) {
